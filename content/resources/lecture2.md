@@ -6,7 +6,12 @@ description: This resource discusses the fundamental concepts of rheology that a
   orientation of surfaces.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/ae97faaaba69c36279442616b2adb3ed_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2.pdf
+type: OCWFile
 uid: ae97faaa-ba69-c362-7944-2616b2adb3ed
 ---

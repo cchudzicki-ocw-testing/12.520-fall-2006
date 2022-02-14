@@ -6,7 +6,12 @@ description: This resource discusses measuring strain using leveling, triangulat
   using Mohr's circle.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/e43795ed3c440e1aa23c1fabb05d3378_lecture8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture8.pdf
+type: OCWFile
 uid: e43795ed-3c44-0e1a-a23c-1fabb05d3378
 ---

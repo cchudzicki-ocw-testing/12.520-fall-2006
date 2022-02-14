@@ -4,7 +4,12 @@ description: This resource contains frames of avi for Rayleigh - Taylor instabil
   and growth of boundary undulations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/d9c06ad1a0212c71dbe8bd88df67e9b9_lecture24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture24.pdf
+type: OCWFile
 uid: d9c06ad1-a021-2c71-dbe8-bd88df67e9b9
 ---

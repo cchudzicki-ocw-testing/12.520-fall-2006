@@ -4,7 +4,12 @@ description: This resource discusses how to represent the stress tensor in terms
   principle stresses, and isotropic and deviatoric stresses.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/66f8ede6c83d59c81bbf4bab5f72c71a_lecture3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture3.pdf
+type: OCWFile
 uid: 66f8ede6-c83d-59c8-1bbf-4bab5f72c71a
 ---

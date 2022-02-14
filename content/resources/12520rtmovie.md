@@ -3,7 +3,12 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/049cc86d3ecbab5626ffc45c740645ef_12520RTmovie.avi
 file_type: video/x-msvideo
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: 12520RTmovie.avi
+type: OCWFile
 uid: 049cc86d-3ecb-ab56-26ff-c45c740645ef
 ---

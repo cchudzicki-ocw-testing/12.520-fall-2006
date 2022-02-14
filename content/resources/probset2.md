@@ -4,7 +4,12 @@ description: The resource contains 4 set of problems based on stress tensor, and
   circle.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/3f3ec9e83d6418954c5a28c897caa2eb_probset2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: probset2.pdf
+type: OCWFile
 uid: 3f3ec9e8-3d64-1895-4c5a-28c897caa2eb
 ---

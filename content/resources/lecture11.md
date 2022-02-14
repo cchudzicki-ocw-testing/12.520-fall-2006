@@ -4,7 +4,12 @@ description: This resource discusses introduction of elasticity, its mathematics
   and examples of elastic behavior like hydrostatic compression and uniaxial stress.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/1bc8a9894f565f50a58ee41a7d2a8eab_lecture11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture11.pdf
+type: OCWFile
 uid: 1bc8a989-4f56-5f50-a58e-e41a7d2a8eab
 ---

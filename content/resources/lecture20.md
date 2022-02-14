@@ -3,7 +3,12 @@ content_type: resource
 description: This resource is in continuation with lecture 18 and 19 discussing plates.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/353f42887f4ee449a0bd1602660dd0ae_lecture20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture20.pdf
+type: OCWFile
 uid: 353f4288-7f4e-e449-a0bd-1602660dd0ae
 ---

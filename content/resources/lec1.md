@@ -5,7 +5,12 @@ description: The resource discusses terms mechanics, continuum mechanics, contin
   traction used in the entire course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/99e128449da8a3820ffc25f50ea2bf52_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
+type: OCWFile
 uid: 99e12844-9da8-a382-0ffc-25f50ea2bf52
 ---

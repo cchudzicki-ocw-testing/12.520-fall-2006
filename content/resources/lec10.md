@@ -4,7 +4,12 @@ description: This resource discusses finite strain , its paradox, and reference 
   for calculating strain with the help Lagrangian and Eulerian case.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/dff928cd2e2b36148f0d6ad3e48c9f8b_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10.pdf
+type: OCWFile
 uid: dff928cd-2e2b-3614-8f0d-6ad3e48c9f8b
 ---

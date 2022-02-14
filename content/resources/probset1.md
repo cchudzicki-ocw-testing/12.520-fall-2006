@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/2a944eb14f0a2c097996fd3c7413acd0_ProbSet1.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: ProbSet1.pdf
+type: OCWFile
 uid: 2a944eb1-4f0a-2c09-7996-fd3c7413acd0
 ---
