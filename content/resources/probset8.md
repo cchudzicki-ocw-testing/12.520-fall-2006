@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: probset8.pdf
-type: OCWFile
 uid: 8a7dad16-6d45-4152-3bfe-a22103ec2304
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: RTmovie.avi
-type: OCWFile
 uid: 88884d2e-d664-068e-069a-9833b5256b22
 ---

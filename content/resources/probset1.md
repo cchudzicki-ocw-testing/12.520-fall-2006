@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: ProbSet1.pdf
-type: OCWFile
 uid: 2a944eb1-4f0a-2c09-7996-fd3c7413acd0
 ---

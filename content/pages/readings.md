@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Readings
 title: Readings
-type: CourseSection
 uid: 96fb6f29-4111-51dd-59f5-f5222b935772
 ---
 

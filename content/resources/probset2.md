@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: probset2.pdf
-type: OCWFile
 uid: 3f3ec9e8-3d64-1895-4c5a-28c897caa2eb
 ---
