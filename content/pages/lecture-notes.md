@@ -25,7 +25,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Overview ({{< resource_link 99e12844-9da8-a382-0ffc-25f50ea2bf52 "PDF" >}})
+Course Overview ({{% resource_link 99e12844-9da8-a382-0ffc-25f50ea2bf52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ Course Overview ({{< resource_link 99e12844-9da8-a382-0ffc-25f50ea2bf52 "PDF" >}
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Stress ({{< resource_link ae97faaa-ba69-c362-7944-2616b2adb3ed "PDF" >}})
+Stress ({{% resource_link ae97faaa-ba69-c362-7944-2616b2adb3ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ Stress ({{< resource_link ae97faaa-ba69-c362-7944-2616b2adb3ed "PDF" >}})
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Different Representations of Stress ({{< resource_link 66f8ede6-c83d-59c8-1bbf-4bab5f72c71a "PDF" >}})
+Different Representations of Stress ({{% resource_link 66f8ede6-c83d-59c8-1bbf-4bab5f72c71a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Different Representations of Stress ({{< resource_link 66f8ede6-c83d-59c8-1bbf-4
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Tectonic Stress ({{< resource_link 82f80f38-49e4-18b2-5693-756257fd3ee1 "PDF" >}})
+Tectonic Stress ({{% resource_link 82f80f38-49e4-18b2-5693-756257fd3ee1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ Tectonic Stress ({{< resource_link 82f80f38-49e4-18b2-5693-756257fd3ee1 "PDF" >}
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Changing Coordinate Systems and Mohr's Circle ({{< resource_link 994f8f66-6534-c75f-34a6-cea20843c057 "PDF" >}})
+Changing Coordinate Systems and Mohr's Circle ({{% resource_link 994f8f66-6534-c75f-34a6-cea20843c057 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ Changing Coordinate Systems and Mohr's Circle ({{< resource_link 994f8f66-6534-c
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Variations in the Crust ({{< resource_link 45d5e5d9-c11e-383a-64b1-c41c32676019 "PDF" >}})
+Stress Variations in the Crust ({{% resource_link 45d5e5d9-c11e-383a-64b1-c41c32676019 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Stress Variations in the Crust ({{< resource_link 45d5e5d9-c11e-383a-64b1-c41c32
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Strain ({{< resource_link dd0bab19-ceaf-dd42-6762-c5bb8eaaff86 "PDF" >}})
+Strain ({{% resource_link dd0bab19-ceaf-dd42-6762-c5bb8eaaff86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Strain ({{< resource_link dd0bab19-ceaf-dd42-6762-c5bb8eaaff86 "PDF" >}})
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Measuring Strain ({{< resource_link e43795ed-3c44-0e1a-a23c-1fabb05d3378 "PDF" >}})
+Measuring Strain ({{% resource_link e43795ed-3c44-0e1a-a23c-1fabb05d3378 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ Measuring Strain ({{< resource_link e43795ed-3c44-0e1a-a23c-1fabb05d3378 "PDF" >
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Mohr's Circle for Strain ({{< resource_link 40dade46-96e3-be29-c318-3c0c748b56db "PDF" >}})
+Mohr's Circle for Strain ({{% resource_link 40dade46-96e3-be29-c318-3c0c748b56db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ Mohr's Circle for Strain ({{< resource_link 40dade46-96e3-be29-c318-3c0c748b56db
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Finite Strain - Motivation ({{< resource_link dff928cd-2e2b-3614-8f0d-6ad3e48c9f8b "PDF" >}})
+Finite Strain - Motivation ({{% resource_link dff928cd-2e2b-3614-8f0d-6ad3e48c9f8b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ Finite Strain - Motivation ({{< resource_link dff928cd-2e2b-3614-8f0d-6ad3e48c9f
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Constitutive Equations and Elasticity ({{< resource_link 1bc8a989-4f56-5f50-a58e-e41a7d2a8eab "PDF" >}})
+Introduction to Constitutive Equations and Elasticity ({{% resource_link 1bc8a989-4f56-5f50-a58e-e41a7d2a8eab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Introduction to Constitutive Equations and Elasticity ({{< resource_link 1bc8a98
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Elasticity ({{< resource_link bffb3fee-750e-3702-461b-532866c7d05a "PDF" >}})
+Elasticity ({{% resource_link bffb3fee-750e-3702-461b-532866c7d05a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +133,7 @@ Elasticity ({{< resource_link bffb3fee-750e-3702-461b-532866c7d05a "PDF" >}})
 13
 {{< tdclose >}}
 {{< tdopen >}}
-More Special Cases of Elasticity ({{< resource_link 8c318dda-0ddc-fcb1-c1d6-54ffb3e477b0 "PDF" >}})
+More Special Cases of Elasticity ({{% resource_link 8c318dda-0ddc-fcb1-c1d6-54ffb3e477b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ More Special Cases of Elasticity ({{< resource_link 8c318dda-0ddc-fcb1-c1d6-54ff
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Example: Uniaxial Strain ({{< resource_link 78f04e9b-be04-0f46-512e-be818dd64595 "PDF" >}})
+Simple Example: Uniaxial Strain ({{% resource_link 78f04e9b-be04-0f46-512e-be818dd64595 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ Simple Example: Uniaxial Strain ({{< resource_link 78f04e9b-be04-0f46-512e-be818
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Special Cases ({{< resource_link 552e0583-ffd2-ef92-d995-ee0585534186 "PDF" >}})
+Special Cases ({{% resource_link 552e0583-ffd2-ef92-d995-ee0585534186 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Special Cases ({{< resource_link 552e0583-ffd2-ef92-d995-ee0585534186 "PDF" >}})
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Dislocation in Elastic Halfspace Model of the Earthquake Cycle ({{< resource_link d921c0fe-63d3-a35e-2420-68e8829c2014 "PDF" >}})
+Dislocation in Elastic Halfspace Model of the Earthquake Cycle ({{% resource_link d921c0fe-63d3-a35e-2420-68e8829c2014 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +169,7 @@ Dislocation in Elastic Halfspace Model of the Earthquake Cycle ({{< resource_lin
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Stress and Strain from a Screw Dislocation ({{< resource_link 6f75caa6-fc79-1fa4-49a3-cf36e325e633 "PDF" >}})
+Stress and Strain from a Screw Dislocation ({{% resource_link 6f75caa6-fc79-1fa4-49a3-cf36e325e633 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Stress and Strain from a Screw Dislocation ({{< resource_link 6f75caa6-fc79-1fa4
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Plates ({{< resource_link 25cf8745-e6bc-045e-638d-b44aa7beff58 "PDF" >}})
+Plates ({{% resource_link 25cf8745-e6bc-045e-638d-b44aa7beff58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ Plates ({{< resource_link 25cf8745-e6bc-045e-638d-b44aa7beff58 "PDF" >}})
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Plates (cont.) ({{< resource_link 67b03630-d4cc-7f3f-f612-e5df85c63d3b "PDF" >}})
+Plates (cont.) ({{% resource_link 67b03630-d4cc-7f3f-f612-e5df85c63d3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ Plates (cont.) ({{< resource_link 67b03630-d4cc-7f3f-f612-e5df85c63d3b "PDF" >}}
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Plates (cont.) ({{< resource_link 353f4288-7f4e-e449-a0bd-1602660dd0ae "PDF" >}})
+Plates (cont.) ({{% resource_link 353f4288-7f4e-e449-a0bd-1602660dd0ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ Plates (cont.) ({{< resource_link 353f4288-7f4e-e449-a0bd-1602660dd0ae "PDF" >}}
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Fluids ({{< resource_link c432f426-169f-b36d-5716-f5c19658037d "PDF" >}})
+Fluids ({{% resource_link c432f426-169f-b36d-5716-f5c19658037d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +214,7 @@ Fluids ({{< resource_link c432f426-169f-b36d-5716-f5c19658037d "PDF" >}})
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Fluids (cont.) ({{< resource_link bf5ea338-14e9-32e9-4a87-5d1f4c33dcf8 "PDF" >}})
+Fluids (cont.) ({{% resource_link bf5ea338-14e9-32e9-4a87-5d1f4c33dcf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +223,7 @@ Fluids (cont.) ({{< resource_link bf5ea338-14e9-32e9-4a87-5d1f4c33dcf8 "PDF" >}}
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Navier Stokes Equation ({{< resource_link 53a2a1f3-9674-f170-2676-38e066dd55fe "PDF" >}})
+Navier Stokes Equation ({{% resource_link 53a2a1f3-9674-f170-2676-38e066dd55fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ Navier Stokes Equation ({{< resource_link 53a2a1f3-9674-f170-2676-38e066dd55fe "
 {{< tdopen >}}
 
 
-The Rayleigh - Taylor Instability ({{< resource_link d9c06ad1-a021-2c71-dbe8-bd88df67e9b9 "PDF" >}})
+The Rayleigh - Taylor Instability ({{% resource_link d9c06ad1-a021-2c71-dbe8-bd88df67e9b9 "PDF" %}})
 
 Additional File: RTmovie.avi ([AVI - 6.8 MB](/ans7870/12/12.520/f05/lecturenotes/12520RTmovie.avi))
 
@@ -247,7 +247,7 @@ Additional File: RTmovie.avi ([AVI - 6.8 MB](/ans7870/12/12.520/f05/lecturenotes
 25
 {{< tdclose >}}
 {{< tdopen >}}
-The Stream Function and Postglacial Rebound ({{< resource_link 727b6a45-4dc7-010c-fd42-edbe112b4d99 "PDF" >}})
+The Stream Function and Postglacial Rebound ({{% resource_link 727b6a45-4dc7-010c-fd42-edbe112b4d99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +256,7 @@ The Stream Function and Postglacial Rebound ({{< resource_link 727b6a45-4dc7-010
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Corner Flow ({{< resource_link 8cad3c84-f9c0-fc5d-e680-ac0198ec793d "PDF" >}})
+Corner Flow ({{% resource_link 8cad3c84-f9c0-fc5d-e680-ac0198ec793d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +265,7 @@ Corner Flow ({{< resource_link 8cad3c84-f9c0-fc5d-e680-ac0198ec793d "PDF" >}})
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Flow in Porous Media ({{< resource_link 107f250a-e5b5-a8d8-091a-2cfb3a65e81b "PDF" >}})
+Flow in Porous Media ({{% resource_link 107f250a-e5b5-a8d8-091a-2cfb3a65e81b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +274,7 @@ Flow in Porous Media ({{< resource_link 107f250a-e5b5-a8d8-091a-2cfb3a65e81b "PD
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Time Dependent Porous Flow ({{< resource_link 395008a3-e7a1-ad68-960d-2594856a670d "PDF" >}})
+Time Dependent Porous Flow ({{% resource_link 395008a3-e7a1-ad68-960d-2594856a670d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
