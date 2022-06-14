@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/8a7dad166d4541523bfea22103ec2304_probset8.pdf
+file: /courses/12-520-geodynamics-fall-2006/8a7dad166d4541523bfea22103ec2304_probset8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
