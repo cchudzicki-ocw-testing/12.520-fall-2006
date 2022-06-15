@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section lists 7 problem sets covered during the course
+  to test the students understanding of the course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
