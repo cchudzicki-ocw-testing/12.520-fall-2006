@@ -6,6 +6,7 @@ file: /courses/12-520-geodynamics-fall-2006/f1aafbf7b7287afb75f7a5539e299b86_pro
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

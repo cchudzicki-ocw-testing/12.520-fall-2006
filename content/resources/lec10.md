@@ -6,6 +6,7 @@ file: /courses/12-520-geodynamics-fall-2006/dff928cd2e2b36148f0d6ad3e48c9f8b_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
